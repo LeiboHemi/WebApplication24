@@ -11,6 +11,7 @@ namespace WebApplication24
 {
     public class Program
     {
+        //ddd
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
